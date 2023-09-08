@@ -4,3 +4,5 @@
 n = int(input("How many times should I loop? "))
 
 # Now, print "Hello, World!" n times.
+for n in range (7):
+    print ("Hello,World!")
